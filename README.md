@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!
+  
+I'm a Computer Science student, currently based in Denmark.
 
-<!--
-**Kwandes/kwandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Wondering how to reach me? **Kwandes#1939 @Discord**
 
-Here are some ideas to get you started:
+## Want to check out my projects? I suggest looking at these:
+- [Gist API call and Json processing using C#](https://github.com/Kwandes/TheKings)
+- [A Web App made in Java Springboot. Bonus points - developed with 3 other people](https://github.com/Kwandes/motorhome)
+- [Discord Bot made in Java with JDA. Feel free to use it as inspiration](https://github.com/Kwandes/BobTheDiscordBot)
+- [An Unreal Engine wave shooter. Is currently collecting dust but it will rise soon](https://github.com/Kwandes/WaveScope)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Kwandes' github stats](https://github-readme-stats.vercel.app/api?username=kwandes&show_icons=true)
