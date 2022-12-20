@@ -8,11 +8,10 @@ I'm a Fullstack developer and a Computer Science student, currently based in Den
 - [Commercial webstore used by Treecreate (ongoing)](https://github.com/treecreate/webstore) and [its old version](https://github.com/Kwandes/treecreate)
 - [Microservice architecture implemented with NestJs example](https://github.com/Kwandes/nestjs-microservices)
 - [NestJs - Angular jwt-based authentication example](https://github.com/Kwandes/nestjs-angular-authentication-demo)
+- [Node + Express + React project with various security measures developed for a security elective](https://github.com/kea-projects/security-marketplace)
 - [Gist API call and Json processing using C#](https://github.com/Kwandes/TheKings)
 - [A throughly tested NestJs and Angular fullstack app. Includes Cypress E2E  UI tests](https://github.com/Kwandes/teststore)
-- [A simple angular app made as a technical interview task](https://github.com/Kwandes/angular-demo)
 - [Discord Bot made in Java with JDA. Feel free to use it as inspiration](https://github.com/Kwandes/BobTheDiscordBot)
-- [Simple Java Spring API + React frontend system for an exam assigment](https://github.com/Kwandes/sonito)
 - [Matter.js demo made to get familiar with the library](https://github.com/Kwandes/physicicle)
 
 ----
