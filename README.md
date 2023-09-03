@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!
   
-I'm a Fullstack developer and a Computer Science student, currently based in Denmark.
+I'm a Fullstack developer currently based in Denmark.
 
 📫 Wondering how to reach me? **Kwandes#1939 @Discord**
 
