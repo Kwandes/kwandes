@@ -5,6 +5,7 @@ I'm a Fullstack developer currently based in Denmark.
 📫 Wondering how to reach me? **Kwandes#1939 @Discord**
 
 ## Want to check out my projects? I suggest looking at these:
+- Commercial hotel management system in the form of a [nestjs-react microservice system](https://github.com/omnihost-systems/version-2), and its [nestjs-angular MVP](https://github.com/omnihost-systems/hotel-dangleterre)
 - [Commercial webstore used by Treecreate (ongoing)](https://github.com/treecreate/webstore) and [its old version](https://github.com/Kwandes/treecreate)
 - [Microservice architecture implemented with NestJs example](https://github.com/Kwandes/nestjs-microservices)
 - [NestJs - Angular jwt-based authentication example](https://github.com/Kwandes/nestjs-angular-authentication-demo)
